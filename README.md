@@ -36,7 +36,7 @@ Usage:
 Report:
 =======================================================
 
-Please see CSE190 Project Report file for more details of implementation and evaluation.
+Please refer to CSE190 Project Report file for more details of implementation and evaluation.
 
 
 Reference:
